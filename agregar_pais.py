@@ -15,6 +15,10 @@ def agregar_pais(archivo, datos):
     # Pedir datos del país, controlando que no estén vacíos
     while True:
         nombre = input("Nombre del país: ").strip()
+        # Verificar si el país ya existe en la lista
+        if any(p["nombre"].lower() == nombre.lower() for p in datos):   
+            print(f"Error: El país '{nombre}' ya se encuentra en la base de datos.")
+            continue
         poblacion = solicitar_entero("Población: ")
         superficie = solicitar_entero("Superficie: ")
         continente = input("Continente: ").strip()
