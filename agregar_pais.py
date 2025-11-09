@@ -31,8 +31,8 @@ def agregar_pais(archivo, datos):
     # Crear diccionario del país
     nuevo_pais = {
         "nombre": nombre.lower(),
-        "poblacion": poblacion.replace(',', '').replace('.', ''),
-        "superficie": superficie.replace(',', '').replace('.', ''),
+        "poblacion": poblacion,
+        "superficie": superficie,
         "continente": continente.lower()
     }
 
