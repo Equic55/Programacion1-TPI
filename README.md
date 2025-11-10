@@ -25,13 +25,15 @@ El proyecto está diseñado para ser interactivo y fácil de usar desde la termi
 ---
 
 ## Integrantes
-- Ezequiel Gonzalez 
-- Joaquin del Valle
+- Ezequiel Gonzalez COMISION 6
+- Joaquin del Valle COMISION 2
 ---
 
 ## Datos de los Profesores
-- Profesor titular: Cinthia Rigoni  
-- Tutor: Oscar Londero  
+- Profesor titular: Cinthia Rigoni
+- Tutor comision 6: Flor Gubiotti
+- Tutor comision 2: Oscar Londero
+- 
 
 ---
 
