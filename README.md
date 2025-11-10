@@ -33,7 +33,7 @@ El proyecto está diseñado para ser interactivo y fácil de usar desde la termi
 - Profesor titular: Cinthia Rigoni
 - Tutor comision 6: Flor Gubiotti
 - Tutor comision 2: Oscar Londero
-- 
+
 
 ---
 
